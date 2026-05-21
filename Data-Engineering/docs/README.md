@@ -11,7 +11,7 @@ Data-Engineering/
 │
 ├── docs/
 │   └── Medallion_Architecture_ADF_Databricks_Complete_Guide.pdf
-│
+│   └── Terraform_Azure_DevToProd_Guide.pdf
 └── README.md
 ```
 
@@ -41,7 +41,7 @@ This repository contains:
 | Streaming | Delta Live Tables (DLT) |
 | Governance | Unity Catalog |
 | Reporting | Power BI |
-| CI/CD | Azure DevOps |
+| CI/CD | Terraform | Azure DevOps |
 
 ---
 
