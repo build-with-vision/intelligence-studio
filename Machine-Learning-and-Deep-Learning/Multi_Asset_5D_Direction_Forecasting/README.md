@@ -17,6 +17,7 @@ Gold_ETF_MultiAsset_Price_Forecasting/
 │
 ├── notebooks/
 │   └── Multi_Asset_5D_Direction_Forecasting_Notebook.ipynb
+│   └── Gold_ETF_MultiAsset_Price_Forecasting_EDA.ipynb
 │
 ├── reports/
 │   └── Financial_Forecasting_Report.docx
@@ -225,6 +226,7 @@ Open:
 
 ```bash
 notebooks/Multi_Asset_5D_Direction_Forecasting_Notebook.ipynb
+notebooks/Gold_ETF_MultiAsset_Price_Forecasting_EDA.ipynb
 ```
 
 ---
